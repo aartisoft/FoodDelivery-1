@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color vertical_stepper_view_black_38
+color vertical_stepper_view_black_87
+color vertical_stepper_view_grey_100
+drawable icon_check_white_18dp
+drawable icon_edit_white_18dp
+drawable vertical_stepper_view_item_circle_active
+drawable vertical_stepper_view_item_circle_inactive
+font ubunt_regular
+font ubuntu_light
+id vertical_stepper_view_item_circle
+id vertical_stepper_view_item_circle_icon
+id vertical_stepper_view_item_circle_number
+id vertical_stepper_view_item_content_wrapper
+id vertical_stepper_view_item_image
+id vertical_stepper_view_item_summary
+id vertical_stepper_view_item_title
+id vertical_stepper_view_item_wrapper
+layout vertical_stepper_view_item
+layout vertical_stepper_view_item_circle
